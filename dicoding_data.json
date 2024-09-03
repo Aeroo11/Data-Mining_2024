@@ -6,7 +6,7 @@
         "course_total_module": "61 Modul",
         "course_level": "Pemula",
         "course_rating": "4,80",
-        "course_total_students": "31.402 Siswa Terdaftar"
+        "course_total_students": "31.445 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Tools Front-End Web Intermediate",
@@ -15,7 +15,7 @@
         "course_total_module": "131 Modul",
         "course_level": "Mahir",
         "course_rating": "4,85",
-        "course_total_students": "1.874 Siswa Terdaftar"
+        "course_total_students": "1.897 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Manajemen Proyek",
@@ -23,8 +23,8 @@
         "course_summary": "Mempelajari dasar manajemen proyek, siklus dan metodologi manajemen proyek, hingga mengejar karir manajemen proyek.",
         "course_total_module": "38 Modul",
         "course_level": "Dasar",
-        "course_rating": "4,87",
-        "course_total_students": "19.462 Siswa Terdaftar"
+        "course_rating": "4,86",
+        "course_total_students": "19.969 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Pemrograman Fungsional dengan Haskell",
@@ -33,7 +33,7 @@
         "course_total_module": "65 Modul",
         "course_level": "Pemula",
         "course_rating": "4,92",
-        "course_total_students": "528 Siswa Terdaftar"
+        "course_total_students": "530 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Penerapan Data Science",
@@ -42,7 +42,7 @@
         "course_total_module": "72 Modul",
         "course_level": "Mahir",
         "course_rating": "4,85",
-        "course_total_students": "655 Siswa Terdaftar"
+        "course_total_students": "673 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Structured Query Language (SQL)",
@@ -51,7 +51,7 @@
         "course_total_module": "44 Modul",
         "course_level": "Dasar",
         "course_rating": "4,87",
-        "course_total_students": "49.110 Siswa Terdaftar"
+        "course_total_students": "49.605 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Pemrograman dengan Haskell",
@@ -60,7 +60,7 @@
         "course_total_module": "61 Modul",
         "course_level": "Dasar",
         "course_rating": "4,87",
-        "course_total_students": "7.390 Siswa Terdaftar"
+        "course_total_students": "7.395 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Node.js Application Developer",
@@ -68,8 +68,8 @@
         "course_summary": "Pelajari core module Node.js secara mendalam agar mampu membangun aplikasi untuk berbagai tujuan dengan menggunakan JavaScript.",
         "course_total_module": "155 Modul",
         "course_level": "Menengah",
-        "course_rating": "4,80",
-        "course_total_students": "813 Siswa Terdaftar"
+        "course_rating": "4,81",
+        "course_total_students": "833 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Data Science",
@@ -78,7 +78,7 @@
         "course_total_module": "50 Modul",
         "course_level": "Dasar",
         "course_rating": "4,83",
-        "course_total_students": "30.250 Siswa Terdaftar"
+        "course_total_students": "30.761 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Pemrograman Prosedural dengan Python",
@@ -87,7 +87,7 @@
         "course_total_module": "80 Modul",
         "course_level": "Pemula",
         "course_rating": "4,84",
-        "course_total_students": "3.804 Siswa Terdaftar"
+        "course_total_students": "3.811 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar AI",
@@ -96,7 +96,7 @@
         "course_total_module": "39 Modul",
         "course_level": "Dasar",
         "course_rating": "4,87",
-        "course_total_students": "10.218 Siswa Terdaftar"
+        "course_total_students": "10.731 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Penerapan Machine Learning dengan Google Cloud",
@@ -105,7 +105,7 @@
         "course_total_module": "54 Modul",
         "course_level": "Mahir",
         "course_rating": "4,81",
-        "course_total_students": "1.555 Siswa Terdaftar"
+        "course_total_students": "1.558 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Penerapan Machine Learning untuk Android",
@@ -114,7 +114,7 @@
         "course_total_module": "60 Modul",
         "course_level": "Mahir",
         "course_rating": "4,89",
-        "course_total_students": "1.590 Siswa Terdaftar"
+        "course_total_students": "1.596 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Strategi Pengembangan Diri",
@@ -122,8 +122,8 @@
         "course_summary": "Jelajahi potensi diri, hadapi tantangan dengan keberanian, dan raih kesuksesan yang bermakna melalui pengembangan diri.",
         "course_total_module": "37 Modul",
         "course_level": "Dasar",
-        "course_rating": "4,94",
-        "course_total_students": "3.202 Siswa Terdaftar"
+        "course_rating": "4,90",
+        "course_total_students": "3.708 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Implementasi CI/CD",
@@ -132,7 +132,7 @@
         "course_total_module": "64 Modul",
         "course_level": "Menengah",
         "course_rating": "4,87",
-        "course_total_students": "2.668 Siswa Terdaftar"
+        "course_total_students": "2.674 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Linux System Administrator",
@@ -141,7 +141,7 @@
         "course_total_module": "64 Modul",
         "course_level": "Menengah",
         "course_rating": "4,91",
-        "course_total_students": "3.156 Siswa Terdaftar"
+        "course_total_students": "3.174 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Fundamental Aplikasi Web dengan React",
@@ -150,7 +150,7 @@
         "course_total_module": "66 Modul",
         "course_level": "Menengah",
         "course_rating": "4,92",
-        "course_total_students": "3.020 Siswa Terdaftar"
+        "course_total_students": "3.040 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi Web dengan React",
@@ -159,7 +159,7 @@
         "course_total_module": "56 Modul",
         "course_level": "Pemula",
         "course_rating": "4,90",
-        "course_total_students": "17.607 Siswa Terdaftar"
+        "course_total_students": "17.624 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Jaringan Komputer untuk Pemula",
@@ -168,7 +168,7 @@
         "course_total_module": "62 Modul",
         "course_level": "Pemula",
         "course_rating": "4,90",
-        "course_total_students": "43.732 Siswa Terdaftar"
+        "course_total_students": "43.755 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar-Dasar DevOps",
@@ -177,7 +177,7 @@
         "course_total_module": "38 Modul",
         "course_level": "Dasar",
         "course_rating": "4,87",
-        "course_total_students": "45.317 Siswa Terdaftar"
+        "course_total_students": "45.337 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Pengembangan Aplikasi Android Intermediate",
@@ -186,7 +186,7 @@
         "course_total_module": "115 Modul",
         "course_level": "Mahir",
         "course_rating": "4,82",
-        "course_total_students": "7.046 Siswa Terdaftar"
+        "course_total_students": "7.049 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Google Cloud",
@@ -195,7 +195,7 @@
         "course_total_module": "108 Modul",
         "course_level": "Pemula",
         "course_rating": "4,87",
-        "course_total_students": "7.568 Siswa Terdaftar"
+        "course_total_students": "7.578 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Google Cloud",
@@ -204,7 +204,7 @@
         "course_total_module": "78 Modul",
         "course_level": "Dasar",
         "course_rating": "4,87",
-        "course_total_students": "10.464 Siswa Terdaftar"
+        "course_total_students": "10.478 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar UX Design",
@@ -213,7 +213,7 @@
         "course_total_module": "94 Modul",
         "course_level": "Dasar",
         "course_rating": "4,89",
-        "course_total_students": "25.051 Siswa Terdaftar"
+        "course_total_students": "25.073 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Google Cloud Architect",
@@ -222,7 +222,7 @@
         "course_total_module": "75 Modul",
         "course_level": "Mahir",
         "course_rating": "4,88",
-        "course_total_students": "3.212 Siswa Terdaftar"
+        "course_total_students": "3.221 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi Back-End untuk Pemula dengan Cloudeka",
@@ -231,7 +231,7 @@
         "course_total_module": "111 Modul",
         "course_level": "Pemula",
         "course_rating": "4,92",
-        "course_total_students": "442 Siswa Terdaftar"
+        "course_total_students": "443 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Pengembangan Aplikasi Flutter Intermediate",
@@ -240,7 +240,7 @@
         "course_total_module": "93 Modul",
         "course_level": "Mahir",
         "course_rating": "4,84",
-        "course_total_students": "1.188 Siswa Terdaftar"
+        "course_total_students": "1.199 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi Android dengan Jetpack Compose",
@@ -249,7 +249,7 @@
         "course_total_module": "80 Modul",
         "course_level": "Mahir",
         "course_rating": "4,85",
-        "course_total_students": "3.712 Siswa Terdaftar"
+        "course_total_students": "3.733 Siswa Terdaftar"
     },
     {
         "course_name": "Machine Learning Operations (MLOps)",
@@ -257,8 +257,8 @@
         "course_summary": "Pelajari proses pengembangan dan pengoperasian sistem machine learning dalam lingkup produksi dengan menerapkan berbagai prinsip MLOps.",
         "course_total_module": "72 Modul",
         "course_level": "Mahir",
-        "course_rating": "4,62",
-        "course_total_students": "2.845 Siswa Terdaftar"
+        "course_rating": "4,60",
+        "course_total_students": "2.871 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membangun Arsitektur Microservices",
@@ -266,8 +266,8 @@
         "course_summary": "Asah dan uji keterampilanmu dalam membangun arsitektur microservices dengan mempraktikkan Container, Container Registry, dan Kubernetes.",
         "course_total_module": "94 Modul",
         "course_level": "Mahir",
-        "course_rating": "4,87",
-        "course_total_students": "1.506 Siswa Terdaftar"
+        "course_rating": "4,86",
+        "course_total_students": "1.516 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi React Web Developer Expert",
@@ -276,7 +276,7 @@
         "course_total_module": "103 Modul",
         "course_level": "Mahir",
         "course_rating": "4,92",
-        "course_total_students": "2.006 Siswa Terdaftar"
+        "course_total_students": "2.025 Siswa Terdaftar"
     },
     {
         "course_name": "Meniti Karier sebagai Software Developer",
@@ -285,7 +285,7 @@
         "course_total_module": "53 Modul",
         "course_level": "Dasar",
         "course_rating": "4,90",
-        "course_total_students": "19.770 Siswa Terdaftar"
+        "course_total_students": "19.842 Siswa Terdaftar"
     },
     {
         "course_name": "Pengenalan ke Logika Pemrograman (Programming Logic 101)",
@@ -294,7 +294,7 @@
         "course_total_module": "37 Modul",
         "course_level": "Dasar",
         "course_rating": "4,91",
-        "course_total_students": "34.890 Siswa Terdaftar"
+        "course_total_students": "34.958 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Git dengan GitHub",
@@ -303,7 +303,7 @@
         "course_total_module": "78 Modul",
         "course_level": "Dasar",
         "course_rating": "4,89",
-        "course_total_students": "34.874 Siswa Terdaftar"
+        "course_total_students": "34.936 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Pemrograman Dengan C",
@@ -312,7 +312,7 @@
         "course_total_module": "48 Modul",
         "course_level": "Dasar",
         "course_rating": "4,85",
-        "course_total_students": "50.807 Siswa Terdaftar"
+        "course_total_students": "50.885 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Visualisasi Data",
@@ -321,7 +321,7 @@
         "course_total_module": "50 Modul",
         "course_level": "Dasar",
         "course_rating": "4,86",
-        "course_total_students": "93.127 Siswa Terdaftar"
+        "course_total_students": "93.164 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Pemrograman dengan Python",
@@ -330,7 +330,7 @@
         "course_total_module": "91 Modul",
         "course_level": "Dasar",
         "course_rating": "4,80",
-        "course_total_students": "115.685 Siswa Terdaftar"
+        "course_total_students": "115.714 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Machine Learning untuk Pemula",
@@ -339,7 +339,7 @@
         "course_total_module": "56 Modul",
         "course_level": "Pemula",
         "course_rating": "4,83",
-        "course_total_students": "91.114 Siswa Terdaftar"
+        "course_total_students": "91.133 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Pengembangan Machine Learning",
@@ -348,7 +348,7 @@
         "course_total_module": "131 Modul",
         "course_level": "Menengah",
         "course_rating": "4,83",
-        "course_total_students": "9.043 Siswa Terdaftar"
+        "course_total_students": "9.062 Siswa Terdaftar"
     },
     {
         "course_name": "Machine Learning Terapan",
@@ -357,7 +357,7 @@
         "course_total_module": "109 Modul",
         "course_level": "Mahir",
         "course_rating": "4,87",
-        "course_total_students": "4.598 Siswa Terdaftar"
+        "course_total_students": "4.619 Siswa Terdaftar"
     },
     {
         "course_name": "Simulasi Ujian TensorFlow Developer Certificate",
@@ -366,7 +366,7 @@
         "course_total_module": "6 Modul",
         "course_level": "Kompetensi Sertifikasi",
         "course_rating": "",
-        "course_total_students": "8.710 Siswa Terdaftar"
+        "course_total_students": "8.714 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Pemrograman Dengan Java",
@@ -375,7 +375,7 @@
         "course_total_module": "42 Modul",
         "course_level": "Dasar",
         "course_rating": "4,86",
-        "course_total_students": "81.179 Siswa Terdaftar"
+        "course_total_students": "81.313 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Pemrograman dengan Kotlin",
@@ -384,7 +384,7 @@
         "course_total_module": "132 Modul",
         "course_level": "Dasar",
         "course_rating": "4,84",
-        "course_total_students": "60.024 Siswa Terdaftar"
+        "course_total_students": "60.062 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Prinsip Pemrograman SOLID",
@@ -393,7 +393,7 @@
         "course_total_module": "41 Modul",
         "course_level": "Menengah",
         "course_rating": "4,87",
-        "course_total_students": "41.349 Siswa Terdaftar"
+        "course_total_students": "41.390 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi Android untuk Pemula",
@@ -402,7 +402,7 @@
         "course_total_module": "49 Modul",
         "course_level": "Pemula",
         "course_rating": "4,87",
-        "course_total_students": "116.535 Siswa Terdaftar"
+        "course_total_students": "116.548 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Fundamental Aplikasi Android",
@@ -411,7 +411,7 @@
         "course_total_module": "107 Modul",
         "course_level": "Menengah",
         "course_rating": "4,84",
-        "course_total_students": "41.943 Siswa Terdaftar"
+        "course_total_students": "41.954 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Android Developer Expert",
@@ -420,7 +420,7 @@
         "course_total_module": "87 Modul",
         "course_level": "Profesional",
         "course_rating": "4,79",
-        "course_total_students": "6.037 Siswa Terdaftar"
+        "course_total_students": "6.059 Siswa Terdaftar"
     },
     {
         "course_name": "Simulasi Ujian Associate Android Developer",
@@ -429,7 +429,7 @@
         "course_total_module": "15 Modul",
         "course_level": "Kompetensi Sertifikasi",
         "course_rating": "",
-        "course_total_students": "3.974 Siswa Terdaftar"
+        "course_total_students": "3.978 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Pemrograman Dengan Swift",
@@ -438,7 +438,7 @@
         "course_total_module": "95 Modul",
         "course_level": "Dasar",
         "course_rating": "4,84",
-        "course_total_students": "8.233 Siswa Terdaftar"
+        "course_total_students": "8.241 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi iOS untuk Pemula",
@@ -447,7 +447,7 @@
         "course_total_module": "74 Modul",
         "course_level": "Pemula",
         "course_rating": "4,84",
-        "course_total_students": "3.557 Siswa Terdaftar"
+        "course_total_students": "3.562 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Fundamental Aplikasi iOS",
@@ -455,8 +455,8 @@
         "course_summary": "Pelajari komponen fundamental iOS berdasarkan teknik yang digunakan industri mulai dari App Design, SwiftUI, Networking, sampai Database.",
         "course_total_module": "127 Modul",
         "course_level": "Menengah",
-        "course_rating": "4,82",
-        "course_total_students": "1.390 Siswa Terdaftar"
+        "course_rating": "4,83",
+        "course_total_students": "1.392 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi iOS Developer Expert",
@@ -465,7 +465,7 @@
         "course_total_module": "126 Modul",
         "course_level": "Mahir",
         "course_rating": "4,85",
-        "course_total_students": "997 Siswa Terdaftar"
+        "course_total_students": "1.001 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Pemrograman Web",
@@ -474,7 +474,7 @@
         "course_total_module": "131 Modul",
         "course_level": "Dasar",
         "course_rating": "4,87",
-        "course_total_students": "179.876 Siswa Terdaftar"
+        "course_total_students": "179.998 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Front-End Web untuk Pemula",
@@ -483,7 +483,7 @@
         "course_total_module": "69 Modul",
         "course_level": "Pemula",
         "course_rating": "4,87",
-        "course_total_students": "100.823 Siswa Terdaftar"
+        "course_total_students": "100.883 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Fundamental Front-End Web Development",
@@ -492,7 +492,7 @@
         "course_total_module": "116 Modul",
         "course_level": "Menengah",
         "course_rating": "4,88",
-        "course_total_students": "29.031 Siswa Terdaftar"
+        "course_total_students": "29.107 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Front-End Web Developer Expert",
@@ -501,7 +501,7 @@
         "course_total_module": "213 Modul",
         "course_level": "Profesional",
         "course_rating": "4,89",
-        "course_total_students": "8.807 Siswa Terdaftar"
+        "course_total_students": "8.881 Siswa Terdaftar"
     },
     {
         "course_name": "Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)",
@@ -510,7 +510,7 @@
         "course_total_module": "87 Modul",
         "course_level": "Dasar",
         "course_rating": "4,81",
-        "course_total_students": "182.555 Siswa Terdaftar"
+        "course_total_students": "183.001 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Dasar Pemrograman JavaScript",
@@ -519,7 +519,7 @@
         "course_total_module": "111 Modul",
         "course_level": "Dasar",
         "course_rating": "4,86",
-        "course_total_students": "158.469 Siswa Terdaftar"
+        "course_total_students": "158.926 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi Back-End untuk Pemula",
@@ -528,7 +528,7 @@
         "course_total_module": "114 Modul",
         "course_level": "Pemula",
         "course_rating": "4,90",
-        "course_total_students": "109.015 Siswa Terdaftar"
+        "course_total_students": "109.549 Siswa Terdaftar"
     },
     {
         "course_name": "Architecting on AWS (Membangun Arsitektur Cloud di AWS)",
@@ -537,7 +537,7 @@
         "course_total_module": "170 Modul",
         "course_level": "Menengah",
         "course_rating": "4,83",
-        "course_total_students": "13.944 Siswa Terdaftar"
+        "course_total_students": "13.960 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Fundamental Aplikasi Back-End",
@@ -546,7 +546,7 @@
         "course_total_module": "189 Modul",
         "course_level": "Menengah",
         "course_rating": "4,90",
-        "course_total_students": "6.461 Siswa Terdaftar"
+        "course_total_students": "6.478 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Back-End Developer Expert",
@@ -555,7 +555,7 @@
         "course_total_module": "116 Modul",
         "course_level": "Mahir",
         "course_rating": "4,90",
-        "course_total_students": "3.449 Siswa Terdaftar"
+        "course_total_students": "3.466 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Google Cloud Engineer",
@@ -564,7 +564,7 @@
         "course_total_module": "85 Modul",
         "course_level": "Menengah",
         "course_rating": "4,87",
-        "course_total_students": "8.802 Siswa Terdaftar"
+        "course_total_students": "8.811 Siswa Terdaftar"
     },
     {
         "course_name": "Simulasi Ujian Associate Cloud Engineer",
@@ -573,7 +573,7 @@
         "course_total_module": "5 Modul",
         "course_level": "Kompetensi Sertifikasi",
         "course_rating": "",
-        "course_total_students": "7.275 Siswa Terdaftar"
+        "course_total_students": "7.278 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Pemrograman dengan Dart",
@@ -582,7 +582,7 @@
         "course_total_module": "81 Modul",
         "course_level": "Dasar",
         "course_rating": "4,84",
-        "course_total_students": "24.000 Siswa Terdaftar"
+        "course_total_students": "24.027 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Aplikasi Flutter untuk Pemula",
@@ -590,8 +590,8 @@
         "course_summary": "Buat aplikasi pertamamu dengan Flutter. Pelajari konsep dasar layouting dengan widget dan menjalankan aplikasi di platform mobile & web.",
         "course_total_module": "51 Modul",
         "course_level": "Pemula",
-        "course_rating": "4,87",
-        "course_total_students": "21.759 Siswa Terdaftar"
+        "course_rating": "4,88",
+        "course_total_students": "21.778 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Fundamental Aplikasi Flutter",
@@ -600,7 +600,7 @@
         "course_total_module": "87 Modul",
         "course_level": "Menengah",
         "course_rating": "4,83",
-        "course_total_students": "4.688 Siswa Terdaftar"
+        "course_total_students": "4.707 Siswa Terdaftar"
     },
     {
         "course_name": "Menjadi Flutter Developer Expert",
@@ -609,7 +609,7 @@
         "course_total_module": "93 Modul",
         "course_level": "Profesional",
         "course_rating": "4,85",
-        "course_total_students": "2.365 Siswa Terdaftar"
+        "course_total_students": "2.380 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membuat Augmented Reality dengan Lens Studio",
@@ -618,7 +618,7 @@
         "course_total_module": "56 Modul",
         "course_level": "Pemula",
         "course_rating": "4,88",
-        "course_total_students": "15.098 Siswa Terdaftar"
+        "course_total_students": "15.114 Siswa Terdaftar"
     },
     {
         "course_name": "Memulai Dasar Pemrograman untuk Menjadi Pengembang Software",
@@ -627,7 +627,7 @@
         "course_total_module": "73 Modul",
         "course_level": "Dasar",
         "course_rating": "4,88",
-        "course_total_students": "45.137 Siswa Terdaftar"
+        "course_total_students": "45.199 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membangun LINE Front-end Framework (LIFF)",
@@ -636,7 +636,7 @@
         "course_total_module": "28 Modul",
         "course_level": "Pemula",
         "course_rating": "4,93",
-        "course_total_students": "5.954 Siswa Terdaftar"
+        "course_total_students": "5.956 Siswa Terdaftar"
     },
     {
         "course_name": "Belajar Membangun LINE Chatbot",
@@ -645,7 +645,7 @@
         "course_total_module": "26 Modul",
         "course_level": "Pemula",
         "course_rating": "4,89",
-        "course_total_students": "15.492 Siswa Terdaftar"
+        "course_total_students": "15.494 Siswa Terdaftar"
     },
     {
         "course_name": "Simulasi Ujian Pendidik Level 1 (Google Certified Educator Level 1 - Indonesian)",
@@ -654,7 +654,7 @@
         "course_total_module": "8 Modul",
         "course_level": "Kompetensi Sertifikasi",
         "course_rating": "",
-        "course_total_students": "4.649 Siswa Terdaftar"
+        "course_total_students": "4.800 Siswa Terdaftar"
     },
     {
         "course_name": "Simulasi Ujian Pendidik Level 2 (Google Certified Educator Level 2 - Indonesian)",
@@ -663,7 +663,7 @@
         "course_total_module": "8 Modul",
         "course_level": "Kompetensi Sertifikasi",
         "course_rating": "",
-        "course_total_students": "551 Siswa Terdaftar"
+        "course_total_students": "557 Siswa Terdaftar"
     },
     {
         "course_name": "Simulasi Ujian Penilaian Keterampilan Pelatih (Trainer Skills Assessment - Indonesian)",
@@ -672,6 +672,6 @@
         "course_total_module": "7 Modul",
         "course_level": "Kompetensi Sertifikasi",
         "course_rating": "",
-        "course_total_students": "531 Siswa Terdaftar"
+        "course_total_students": "537 Siswa Terdaftar"
     }
 ]
