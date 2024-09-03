@@ -1,0 +1,2002 @@
+[
+    {
+        "movie_name": "1. The Shawshank Redemption",
+        "movie_rate": "9.3",
+        "movie_year": "1994",
+        "movie_duration": "2h 22m",
+        "movie_age": "R",
+        "total_review": "\u00a0(2.9M)"
+    },
+    {
+        "movie_name": "2. The Godfather",
+        "movie_rate": "9.2",
+        "movie_year": "1972",
+        "movie_duration": "2h 55m",
+        "movie_age": "R",
+        "total_review": "\u00a0(2M)"
+    },
+    {
+        "movie_name": "3. The Dark Knight",
+        "movie_rate": "9.0",
+        "movie_year": "2008",
+        "movie_duration": "2h 32m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(2.9M)"
+    },
+    {
+        "movie_name": "4. The Godfather Part II",
+        "movie_rate": "9.0",
+        "movie_year": "1974",
+        "movie_duration": "3h 22m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.4M)"
+    },
+    {
+        "movie_name": "5. 12 Angry Men",
+        "movie_rate": "9.0",
+        "movie_year": "1957",
+        "movie_duration": "1h 36m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(882K)"
+    },
+    {
+        "movie_name": "6. Schindler's List",
+        "movie_rate": "9.0",
+        "movie_year": "1993",
+        "movie_duration": "3h 15m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.5M)"
+    },
+    {
+        "movie_name": "7. The Lord of the Rings: The Return of the King",
+        "movie_rate": "9.0",
+        "movie_year": "2003",
+        "movie_duration": "3h 21m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(2M)"
+    },
+    {
+        "movie_name": "8. Pulp Fiction",
+        "movie_rate": "8.9",
+        "movie_year": "1994",
+        "movie_duration": "2h 34m",
+        "movie_age": "R",
+        "total_review": "\u00a0(2.3M)"
+    },
+    {
+        "movie_name": "9. The Lord of the Rings: The Fellowship of the Ring",
+        "movie_rate": "8.9",
+        "movie_year": "2001",
+        "movie_duration": "2h 58m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(2M)"
+    },
+    {
+        "movie_name": "10. The Good, the Bad and the Ugly",
+        "movie_rate": "8.8",
+        "movie_year": "1966",
+        "movie_duration": "2h 58m",
+        "movie_age": "R",
+        "total_review": "\u00a0(822K)"
+    },
+    {
+        "movie_name": "11. Forrest Gump",
+        "movie_rate": "8.8",
+        "movie_year": "1994",
+        "movie_duration": "2h 22m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(2.3M)"
+    },
+    {
+        "movie_name": "12. The Lord of the Rings: The Two Towers",
+        "movie_rate": "8.8",
+        "movie_year": "2002",
+        "movie_duration": "2h 59m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.8M)"
+    },
+    {
+        "movie_name": "13. Fight Club",
+        "movie_rate": "8.8",
+        "movie_year": "1999",
+        "movie_duration": "2h 19m",
+        "movie_age": "R",
+        "total_review": "\u00a0(2.4M)"
+    },
+    {
+        "movie_name": "14. Inception",
+        "movie_rate": "8.8",
+        "movie_year": "2010",
+        "movie_duration": "2h 28m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(2.6M)"
+    },
+    {
+        "movie_name": "15. Star Wars: Episode V - The Empire Strikes Back",
+        "movie_rate": "8.7",
+        "movie_year": "1980",
+        "movie_duration": "2h 4m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(1.4M)"
+    },
+    {
+        "movie_name": "16. The Matrix",
+        "movie_rate": "8.7",
+        "movie_year": "1999",
+        "movie_duration": "2h 16m",
+        "movie_age": "R",
+        "total_review": "\u00a0(2.1M)"
+    },
+    {
+        "movie_name": "17. Goodfellas",
+        "movie_rate": "8.7",
+        "movie_year": "1990",
+        "movie_duration": "2h 25m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.3M)"
+    },
+    {
+        "movie_name": "18. One Flew Over the Cuckoo's Nest",
+        "movie_rate": "8.7",
+        "movie_year": "1975",
+        "movie_duration": "2h 13m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "19. Interstellar",
+        "movie_rate": "8.7",
+        "movie_year": "2014",
+        "movie_duration": "2h 49m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(2.2M)"
+    },
+    {
+        "movie_name": "20. Se7en",
+        "movie_rate": "8.6",
+        "movie_year": "1995",
+        "movie_duration": "2h 7m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.8M)"
+    },
+    {
+        "movie_name": "21. It's a Wonderful Life",
+        "movie_rate": "8.6",
+        "movie_year": "1946",
+        "movie_duration": "2h 10m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(505K)"
+    },
+    {
+        "movie_name": "22. Seven Samurai",
+        "movie_rate": "8.6",
+        "movie_year": "1954",
+        "movie_duration": "3h 27m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(371K)"
+    },
+    {
+        "movie_name": "23. The Silence of the Lambs",
+        "movie_rate": "8.6",
+        "movie_year": "1991",
+        "movie_duration": "1h 58m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.6M)"
+    },
+    {
+        "movie_name": "24. Saving Private Ryan",
+        "movie_rate": "8.6",
+        "movie_year": "1998",
+        "movie_duration": "2h 49m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.5M)"
+    },
+    {
+        "movie_name": "25. City of God",
+        "movie_rate": "8.6",
+        "movie_year": "2002",
+        "movie_duration": "2h 10m",
+        "movie_age": "R",
+        "total_review": "\u00a0(811K)"
+    },
+    {
+        "movie_name": "26. Life Is Beautiful",
+        "movie_rate": "8.6",
+        "movie_year": "1997",
+        "movie_duration": "1h 56m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(753K)"
+    },
+    {
+        "movie_name": "27. The Green Mile",
+        "movie_rate": "8.6",
+        "movie_year": "1999",
+        "movie_duration": "3h 9m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.4M)"
+    },
+    {
+        "movie_name": "28. Terminator 2: Judgment Day",
+        "movie_rate": "8.6",
+        "movie_year": "1991",
+        "movie_duration": "2h 17m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "29. Star Wars: Episode IV - A New Hope",
+        "movie_rate": "8.6",
+        "movie_year": "1977",
+        "movie_duration": "2h 1m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(1.5M)"
+    },
+    {
+        "movie_name": "30. Back to the Future",
+        "movie_rate": "8.5",
+        "movie_year": "1985",
+        "movie_duration": "1h 56m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(1.3M)"
+    },
+    {
+        "movie_name": "31. Spirited Away",
+        "movie_rate": "8.6",
+        "movie_year": "2001",
+        "movie_duration": "2h 5m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(868K)"
+    },
+    {
+        "movie_name": "32. The Pianist",
+        "movie_rate": "8.5",
+        "movie_year": "2002",
+        "movie_duration": "2h 30m",
+        "movie_age": "R",
+        "total_review": "\u00a0(929K)"
+    },
+    {
+        "movie_name": "33. Parasite",
+        "movie_rate": "8.5",
+        "movie_year": "2019",
+        "movie_duration": "2h 12m",
+        "movie_age": "R",
+        "total_review": "\u00a0(988K)"
+    },
+    {
+        "movie_name": "34. Psycho",
+        "movie_rate": "8.5",
+        "movie_year": "1960",
+        "movie_duration": "1h 49m",
+        "movie_age": "R",
+        "total_review": "\u00a0(728K)"
+    },
+    {
+        "movie_name": "35. Gladiator",
+        "movie_rate": "8.5",
+        "movie_year": "2000",
+        "movie_duration": "2h 35m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.7M)"
+    },
+    {
+        "movie_name": "36. The Lion King",
+        "movie_rate": "8.5",
+        "movie_year": "1994",
+        "movie_duration": "1h 28m",
+        "movie_age": "G",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "37. Spider-Man: Across the Spider-Verse",
+        "movie_rate": "8.6",
+        "movie_year": "2023",
+        "movie_duration": "2h 20m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(398K)"
+    },
+    {
+        "movie_name": "38. The Departed",
+        "movie_rate": "8.5",
+        "movie_year": "2006",
+        "movie_duration": "2h 31m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.4M)"
+    },
+    {
+        "movie_name": "39. Whiplash",
+        "movie_rate": "8.5",
+        "movie_year": "2014",
+        "movie_duration": "1h 46m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1M)"
+    },
+    {
+        "movie_name": "40. American History X",
+        "movie_rate": "8.5",
+        "movie_year": "1998",
+        "movie_duration": "1h 59m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "41. L\u00e9on: The Professional",
+        "movie_rate": "8.5",
+        "movie_year": "1994",
+        "movie_duration": "1h 50m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.3M)"
+    },
+    {
+        "movie_name": "42. The Prestige",
+        "movie_rate": "8.5",
+        "movie_year": "2006",
+        "movie_duration": "2h 10m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.5M)"
+    },
+    {
+        "movie_name": "43. Grave of the Fireflies",
+        "movie_rate": "8.5",
+        "movie_year": "1988",
+        "movie_duration": "1h 28m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(318K)"
+    },
+    {
+        "movie_name": "44. Harakiri",
+        "movie_rate": "8.6",
+        "movie_year": "1962",
+        "movie_duration": "2h 13m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(71K)"
+    },
+    {
+        "movie_name": "45. Dune: Part Two",
+        "movie_rate": "8.5",
+        "movie_year": "2024",
+        "movie_duration": "2h 46m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(508K)"
+    },
+    {
+        "movie_name": "46. The Usual Suspects",
+        "movie_rate": "8.5",
+        "movie_year": "1995",
+        "movie_duration": "1h 46m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "47. Casablanca",
+        "movie_rate": "8.5",
+        "movie_year": "1942",
+        "movie_duration": "1h 42m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(613K)"
+    },
+    {
+        "movie_name": "48. The Intouchables",
+        "movie_rate": "8.5",
+        "movie_year": "2011",
+        "movie_duration": "1h 52m",
+        "movie_age": "R",
+        "total_review": "\u00a0(943K)"
+    },
+    {
+        "movie_name": "49. Cinema Paradiso",
+        "movie_rate": "8.5",
+        "movie_year": "1988",
+        "movie_duration": "2h 54m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(287K)"
+    },
+    {
+        "movie_name": "50. Modern Times",
+        "movie_rate": "8.5",
+        "movie_year": "1936",
+        "movie_duration": "1h 27m",
+        "movie_age": "G",
+        "total_review": "\u00a0(263K)"
+    },
+    {
+        "movie_name": "51. Alien",
+        "movie_rate": "8.5",
+        "movie_year": "1979",
+        "movie_duration": "1h 57m",
+        "movie_age": "R",
+        "total_review": "\u00a0(975K)"
+    },
+    {
+        "movie_name": "52. Rear Window",
+        "movie_rate": "8.5",
+        "movie_year": "1954",
+        "movie_duration": "1h 52m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(529K)"
+    },
+    {
+        "movie_name": "53. Once Upon a Time in the West",
+        "movie_rate": "8.5",
+        "movie_year": "1968",
+        "movie_duration": "2h 46m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(353K)"
+    },
+    {
+        "movie_name": "54. City Lights",
+        "movie_rate": "8.5",
+        "movie_year": "1931",
+        "movie_duration": "1h 27m",
+        "movie_age": "G",
+        "total_review": "\u00a0(198K)"
+    },
+    {
+        "movie_name": "55. Django Unchained",
+        "movie_rate": "8.5",
+        "movie_year": "2012",
+        "movie_duration": "2h 45m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.7M)"
+    },
+    {
+        "movie_name": "56. Apocalypse Now",
+        "movie_rate": "8.4",
+        "movie_year": "1979",
+        "movie_duration": "2h 27m",
+        "movie_age": "R",
+        "total_review": "\u00a0(719K)"
+    },
+    {
+        "movie_name": "57. Memento",
+        "movie_rate": "8.4",
+        "movie_year": "2000",
+        "movie_duration": "1h 53m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.3M)"
+    },
+    {
+        "movie_name": "58. WALL\u00b7E",
+        "movie_rate": "8.4",
+        "movie_year": "2008",
+        "movie_duration": "1h 38m",
+        "movie_age": "G",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "59. Raiders of the Lost Ark",
+        "movie_rate": "8.4",
+        "movie_year": "1981",
+        "movie_duration": "1h 55m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(1M)"
+    },
+    {
+        "movie_name": "60. 12th Fail",
+        "movie_rate": "8.9",
+        "movie_year": "2023",
+        "movie_duration": "2h 27m",
+        "movie_age": "Unknown",
+        "total_review": "\u00a0(127K)"
+    },
+    {
+        "movie_name": "61. The Lives of Others",
+        "movie_rate": "8.4",
+        "movie_year": "2006",
+        "movie_duration": "2h 17m",
+        "movie_age": "R",
+        "total_review": "\u00a0(415K)"
+    },
+    {
+        "movie_name": "62. Sunset Boulevard",
+        "movie_rate": "8.4",
+        "movie_year": "1950",
+        "movie_duration": "1h 50m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(240K)"
+    },
+    {
+        "movie_name": "63. Avengers: Infinity War",
+        "movie_rate": "8.4",
+        "movie_year": "2018",
+        "movie_duration": "2h 29m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "64. Paths of Glory",
+        "movie_rate": "8.4",
+        "movie_year": "1957",
+        "movie_duration": "1h 28m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(216K)"
+    },
+    {
+        "movie_name": "65. Spider-Man: Into the Spider-Verse",
+        "movie_rate": "8.4",
+        "movie_year": "2018",
+        "movie_duration": "1h 57m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(690K)"
+    },
+    {
+        "movie_name": "66. Witness for the Prosecution",
+        "movie_rate": "8.4",
+        "movie_year": "1957",
+        "movie_duration": "1h 56m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(140K)"
+    },
+    {
+        "movie_name": "67. The Shining",
+        "movie_rate": "8.4",
+        "movie_year": "1980",
+        "movie_duration": "2h 26m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "68. The Great Dictator",
+        "movie_rate": "8.4",
+        "movie_year": "1940",
+        "movie_duration": "2h 5m",
+        "movie_age": "G",
+        "total_review": "\u00a0(240K)"
+    },
+    {
+        "movie_name": "69. Aliens",
+        "movie_rate": "8.4",
+        "movie_year": "1986",
+        "movie_duration": "2h 17m",
+        "movie_age": "R",
+        "total_review": "\u00a0(781K)"
+    },
+    {
+        "movie_name": "70. Inglourious Basterds",
+        "movie_rate": "8.4",
+        "movie_year": "2009",
+        "movie_duration": "2h 33m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.6M)"
+    },
+    {
+        "movie_name": "71. The Dark Knight Rises",
+        "movie_rate": "8.4",
+        "movie_year": "2012",
+        "movie_duration": "2h 44m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.9M)"
+    },
+    {
+        "movie_name": "72. Coco",
+        "movie_rate": "8.4",
+        "movie_year": "2017",
+        "movie_duration": "1h 45m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(609K)"
+    },
+    {
+        "movie_name": "73. Amadeus",
+        "movie_rate": "8.4",
+        "movie_year": "1984",
+        "movie_duration": "2h 40m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(433K)"
+    },
+    {
+        "movie_name": "74. Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "movie_rate": "8.3",
+        "movie_year": "1964",
+        "movie_duration": "1h 35m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(524K)"
+    },
+    {
+        "movie_name": "75. Toy Story",
+        "movie_rate": "8.3",
+        "movie_year": "1995",
+        "movie_duration": "1h 21m",
+        "movie_age": "G",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "76. Oldboy",
+        "movie_rate": "8.3",
+        "movie_year": "2003",
+        "movie_duration": "2h",
+        "movie_age": "R",
+        "total_review": "\u00a0(648K)"
+    },
+    {
+        "movie_name": "77. American Beauty",
+        "movie_rate": "8.3",
+        "movie_year": "1999",
+        "movie_duration": "2h 2m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "78. Avengers: Endgame",
+        "movie_rate": "8.4",
+        "movie_year": "2019",
+        "movie_duration": "3h 1m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.3M)"
+    },
+    {
+        "movie_name": "79. Braveheart",
+        "movie_rate": "8.3",
+        "movie_year": "1995",
+        "movie_duration": "2h 58m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "80. Das Boot",
+        "movie_rate": "8.4",
+        "movie_year": "1981",
+        "movie_duration": "2h 29m",
+        "movie_age": "Unknown",
+        "total_review": "\u00a0(267K)"
+    },
+    {
+        "movie_name": "81. Good Will Hunting",
+        "movie_rate": "8.3",
+        "movie_year": "1997",
+        "movie_duration": "2h 6m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "82. Princess Mononoke",
+        "movie_rate": "8.3",
+        "movie_year": "1997",
+        "movie_duration": "2h 13m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(442K)"
+    },
+    {
+        "movie_name": "83. Joker",
+        "movie_rate": "8.4",
+        "movie_year": "2019",
+        "movie_duration": "2h 2m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.5M)"
+    },
+    {
+        "movie_name": "84. Your Name.",
+        "movie_rate": "8.4",
+        "movie_year": "2016",
+        "movie_duration": "1h 46m",
+        "movie_age": "Unknown",
+        "total_review": "\u00a0(332K)"
+    },
+    {
+        "movie_name": "85. High and Low",
+        "movie_rate": "8.4",
+        "movie_year": "1963",
+        "movie_duration": "2h 23m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(55K)"
+    },
+    {
+        "movie_name": "86. 3 Idiots",
+        "movie_rate": "8.4",
+        "movie_year": "2009",
+        "movie_duration": "2h 50m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(442K)"
+    },
+    {
+        "movie_name": "87. Once Upon a Time in America",
+        "movie_rate": "8.3",
+        "movie_year": "1984",
+        "movie_duration": "3h 49m",
+        "movie_age": "R",
+        "total_review": "\u00a0(383K)"
+    },
+    {
+        "movie_name": "88. Singin' in the Rain",
+        "movie_rate": "8.3",
+        "movie_year": "1952",
+        "movie_duration": "1h 43m",
+        "movie_age": "G",
+        "total_review": "\u00a0(264K)"
+    },
+    {
+        "movie_name": "89. Capernaum",
+        "movie_rate": "8.4",
+        "movie_year": "2018",
+        "movie_duration": "2h 6m",
+        "movie_age": "R",
+        "total_review": "\u00a0(109K)"
+    },
+    {
+        "movie_name": "90. Come and See",
+        "movie_rate": "8.4",
+        "movie_year": "1985",
+        "movie_duration": "2h 22m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(101K)"
+    },
+    {
+        "movie_name": "91. Requiem for a Dream",
+        "movie_rate": "8.3",
+        "movie_year": "2000",
+        "movie_duration": "1h 42m",
+        "movie_age": "NC-17",
+        "total_review": "\u00a0(911K)"
+    },
+    {
+        "movie_name": "92. Toy Story 3",
+        "movie_rate": "8.3",
+        "movie_year": "2010",
+        "movie_duration": "1h 43m",
+        "movie_age": "G",
+        "total_review": "\u00a0(904K)"
+    },
+    {
+        "movie_name": "93. Star Wars: Episode VI - Return of the Jedi",
+        "movie_rate": "8.3",
+        "movie_year": "1983",
+        "movie_duration": "2h 11m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "94. Eternal Sunshine of the Spotless Mind",
+        "movie_rate": "8.3",
+        "movie_year": "2004",
+        "movie_duration": "1h 48m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "95. The Hunt",
+        "movie_rate": "8.3",
+        "movie_year": "2012",
+        "movie_duration": "1h 55m",
+        "movie_age": "R",
+        "total_review": "\u00a0(371K)"
+    },
+    {
+        "movie_name": "96. 2001: A Space Odyssey",
+        "movie_rate": "8.3",
+        "movie_year": "1968",
+        "movie_duration": "2h 29m",
+        "movie_age": "G",
+        "total_review": "\u00a0(729K)"
+    },
+    {
+        "movie_name": "97. Ikiru",
+        "movie_rate": "8.3",
+        "movie_year": "1952",
+        "movie_duration": "2h 23m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(89K)"
+    },
+    {
+        "movie_name": "98. Reservoir Dogs",
+        "movie_rate": "8.3",
+        "movie_year": "1992",
+        "movie_duration": "1h 39m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "99. Lawrence of Arabia",
+        "movie_rate": "8.3",
+        "movie_year": "1962",
+        "movie_duration": "3h 38m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(319K)"
+    },
+    {
+        "movie_name": "100. The Apartment",
+        "movie_rate": "8.3",
+        "movie_year": "1960",
+        "movie_duration": "2h 5m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(200K)"
+    },
+    {
+        "movie_name": "101. Incendies",
+        "movie_rate": "8.3",
+        "movie_year": "2010",
+        "movie_duration": "2h 11m",
+        "movie_age": "R",
+        "total_review": "\u00a0(209K)"
+    },
+    {
+        "movie_name": "102. Oppenheimer",
+        "movie_rate": "8.3",
+        "movie_year": "2023",
+        "movie_duration": "3h",
+        "movie_age": "R",
+        "total_review": "\u00a0(790K)"
+    },
+    {
+        "movie_name": "103. North by Northwest",
+        "movie_rate": "8.3",
+        "movie_year": "1959",
+        "movie_duration": "2h 16m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(350K)"
+    },
+    {
+        "movie_name": "104. Scarface",
+        "movie_rate": "8.3",
+        "movie_year": "1983",
+        "movie_duration": "2h 50m",
+        "movie_age": "R",
+        "total_review": "\u00a0(931K)"
+    },
+    {
+        "movie_name": "105. Citizen Kane",
+        "movie_rate": "8.3",
+        "movie_year": "1941",
+        "movie_duration": "1h 59m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(470K)"
+    },
+    {
+        "movie_name": "106. Double Indemnity",
+        "movie_rate": "8.3",
+        "movie_year": "1944",
+        "movie_duration": "1h 47m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(169K)"
+    },
+    {
+        "movie_name": "107. M",
+        "movie_rate": "8.3",
+        "movie_year": "1931",
+        "movie_duration": "1h 39m",
+        "movie_age": "Passed",
+        "total_review": "\u00a0(171K)"
+    },
+    {
+        "movie_name": "108. Vertigo",
+        "movie_rate": "8.3",
+        "movie_year": "1958",
+        "movie_duration": "2h 8m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(433K)"
+    },
+    {
+        "movie_name": "109. Full Metal Jacket",
+        "movie_rate": "8.2",
+        "movie_year": "1987",
+        "movie_duration": "1h 56m",
+        "movie_age": "R",
+        "total_review": "\u00a0(800K)"
+    },
+    {
+        "movie_name": "110. Heat",
+        "movie_rate": "8.3",
+        "movie_year": "1995",
+        "movie_duration": "2h 50m",
+        "movie_age": "R",
+        "total_review": "\u00a0(730K)"
+    },
+    {
+        "movie_name": "111. Am\u00e9lie",
+        "movie_rate": "8.3",
+        "movie_year": "2001",
+        "movie_duration": "2h 2m",
+        "movie_age": "R",
+        "total_review": "\u00a0(802K)"
+    },
+    {
+        "movie_name": "112. Up",
+        "movie_rate": "8.3",
+        "movie_year": "2009",
+        "movie_duration": "1h 36m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "113. A Clockwork Orange",
+        "movie_rate": "8.2",
+        "movie_year": "1971",
+        "movie_duration": "2h 16m",
+        "movie_age": "R",
+        "total_review": "\u00a0(891K)"
+    },
+    {
+        "movie_name": "114. To Kill a Mockingbird",
+        "movie_rate": "8.3",
+        "movie_year": "1962",
+        "movie_duration": "2h 9m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(336K)"
+    },
+    {
+        "movie_name": "115. A Separation",
+        "movie_rate": "8.3",
+        "movie_year": "2011",
+        "movie_duration": "2h 3m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(261K)"
+    },
+    {
+        "movie_name": "116. The Sting",
+        "movie_rate": "8.3",
+        "movie_year": "1973",
+        "movie_duration": "2h 9m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(283K)"
+    },
+    {
+        "movie_name": "117. Die Hard",
+        "movie_rate": "8.2",
+        "movie_year": "1988",
+        "movie_duration": "2h 12m",
+        "movie_age": "R",
+        "total_review": "\u00a0(957K)"
+    },
+    {
+        "movie_name": "118. Indiana Jones and the Last Crusade",
+        "movie_rate": "8.2",
+        "movie_year": "1989",
+        "movie_duration": "2h 7m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(819K)"
+    },
+    {
+        "movie_name": "119. Like Stars on Earth",
+        "movie_rate": "8.3",
+        "movie_year": "2007",
+        "movie_duration": "2h 42m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(210K)"
+    },
+    {
+        "movie_name": "120. Metropolis",
+        "movie_rate": "8.3",
+        "movie_year": "1927",
+        "movie_duration": "2h 33m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(188K)"
+    },
+    {
+        "movie_name": "121. Snatch",
+        "movie_rate": "8.2",
+        "movie_year": "2000",
+        "movie_duration": "1h 42m",
+        "movie_age": "R",
+        "total_review": "\u00a0(921K)"
+    },
+    {
+        "movie_name": "122. 1917",
+        "movie_rate": "8.2",
+        "movie_year": "2019",
+        "movie_duration": "1h 59m",
+        "movie_age": "R",
+        "total_review": "\u00a0(693K)"
+    },
+    {
+        "movie_name": "123. L.A. Confidential",
+        "movie_rate": "8.2",
+        "movie_year": "1997",
+        "movie_duration": "2h 18m",
+        "movie_age": "R",
+        "total_review": "\u00a0(624K)"
+    },
+    {
+        "movie_name": "124. Bicycle Thieves",
+        "movie_rate": "8.3",
+        "movie_year": "1948",
+        "movie_duration": "1h 29m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(178K)"
+    },
+    {
+        "movie_name": "125. Hamilton",
+        "movie_rate": "8.3",
+        "movie_year": "2020",
+        "movie_duration": "2h 40m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(117K)"
+    },
+    {
+        "movie_name": "126. Taxi Driver",
+        "movie_rate": "8.2",
+        "movie_year": "1976",
+        "movie_duration": "1h 54m",
+        "movie_age": "R",
+        "total_review": "\u00a0(938K)"
+    },
+    {
+        "movie_name": "127. Downfall",
+        "movie_rate": "8.2",
+        "movie_year": "2004",
+        "movie_duration": "2h 36m",
+        "movie_age": "R",
+        "total_review": "\u00a0(379K)"
+    },
+    {
+        "movie_name": "128. Dangal",
+        "movie_rate": "8.3",
+        "movie_year": "2016",
+        "movie_duration": "2h 41m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(216K)"
+    },
+    {
+        "movie_name": "129. Batman Begins",
+        "movie_rate": "8.2",
+        "movie_year": "2005",
+        "movie_duration": "2h 20m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.6M)"
+    },
+    {
+        "movie_name": "130. For a Few Dollars More",
+        "movie_rate": "8.2",
+        "movie_year": "1965",
+        "movie_duration": "2h 12m",
+        "movie_age": "R",
+        "total_review": "\u00a0(279K)"
+    },
+    {
+        "movie_name": "131. The Wolf of Wall Street",
+        "movie_rate": "8.2",
+        "movie_year": "2013",
+        "movie_duration": "3h",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.6M)"
+    },
+    {
+        "movie_name": "132. Green Book",
+        "movie_rate": "8.2",
+        "movie_year": "2018",
+        "movie_duration": "2h 10m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(591K)"
+    },
+    {
+        "movie_name": "133. Some Like It Hot",
+        "movie_rate": "8.2",
+        "movie_year": "1959",
+        "movie_duration": "2h 1m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(287K)"
+    },
+    {
+        "movie_name": "134. The Kid",
+        "movie_rate": "8.2",
+        "movie_year": "1921",
+        "movie_duration": "1h 8m",
+        "movie_age": "Passed",
+        "total_review": "\u00a0(137K)"
+    },
+    {
+        "movie_name": "135. Judgment at Nuremberg",
+        "movie_rate": "8.3",
+        "movie_year": "1961",
+        "movie_duration": "2h 59m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(87K)"
+    },
+    {
+        "movie_name": "136. The Truman Show",
+        "movie_rate": "8.2",
+        "movie_year": "1998",
+        "movie_duration": "1h 43m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "137. The Father",
+        "movie_rate": "8.2",
+        "movie_year": "2020",
+        "movie_duration": "1h 37m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(199K)"
+    },
+    {
+        "movie_name": "138. All About Eve",
+        "movie_rate": "8.2",
+        "movie_year": "1950",
+        "movie_duration": "2h 18m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(140K)"
+    },
+    {
+        "movie_name": "139. Shutter Island",
+        "movie_rate": "8.2",
+        "movie_year": "2010",
+        "movie_duration": "2h 18m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.5M)"
+    },
+    {
+        "movie_name": "140. There Will Be Blood",
+        "movie_rate": "8.2",
+        "movie_year": "2007",
+        "movie_duration": "2h 38m",
+        "movie_age": "R",
+        "total_review": "\u00a0(650K)"
+    },
+    {
+        "movie_name": "141. Top Gun: Maverick",
+        "movie_rate": "8.2",
+        "movie_year": "2022",
+        "movie_duration": "2h 10m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(727K)"
+    },
+    {
+        "movie_name": "142. Jurassic Park",
+        "movie_rate": "8.2",
+        "movie_year": "1993",
+        "movie_duration": "2h 7m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "143. Casino",
+        "movie_rate": "8.2",
+        "movie_year": "1995",
+        "movie_duration": "2h 58m",
+        "movie_age": "R",
+        "total_review": "\u00a0(572K)"
+    },
+    {
+        "movie_name": "144. Ran",
+        "movie_rate": "8.2",
+        "movie_year": "1985",
+        "movie_duration": "2h 40m",
+        "movie_age": "R",
+        "total_review": "\u00a0(138K)"
+    },
+    {
+        "movie_name": "145. The Sixth Sense",
+        "movie_rate": "8.2",
+        "movie_year": "1999",
+        "movie_duration": "1h 47m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "146. Pan's Labyrinth",
+        "movie_rate": "8.2",
+        "movie_year": "2006",
+        "movie_duration": "1h 58m",
+        "movie_age": "R",
+        "total_review": "\u00a0(709K)"
+    },
+    {
+        "movie_name": "147. Unforgiven",
+        "movie_rate": "8.2",
+        "movie_year": "1992",
+        "movie_duration": "2h 10m",
+        "movie_age": "R",
+        "total_review": "\u00a0(441K)"
+    },
+    {
+        "movie_name": "148. No Country for Old Men",
+        "movie_rate": "8.2",
+        "movie_year": "2007",
+        "movie_duration": "2h 2m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "149. The Thing",
+        "movie_rate": "8.2",
+        "movie_year": "1982",
+        "movie_duration": "1h 49m",
+        "movie_age": "R",
+        "total_review": "\u00a0(476K)"
+    },
+    {
+        "movie_name": "150. A Beautiful Mind",
+        "movie_rate": "8.2",
+        "movie_year": "2001",
+        "movie_duration": "2h 15m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(998K)"
+    },
+    {
+        "movie_name": "151. Kill Bill: Vol. 1",
+        "movie_rate": "8.2",
+        "movie_year": "2003",
+        "movie_duration": "1h 51m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "152. The Treasure of the Sierra Madre",
+        "movie_rate": "8.2",
+        "movie_year": "1948",
+        "movie_duration": "2h 6m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(134K)"
+    },
+    {
+        "movie_name": "153. Yojimbo",
+        "movie_rate": "8.2",
+        "movie_year": "1961",
+        "movie_duration": "1h 50m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(133K)"
+    },
+    {
+        "movie_name": "154. The Great Escape",
+        "movie_rate": "8.2",
+        "movie_year": "1963",
+        "movie_duration": "2h 52m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(262K)"
+    },
+    {
+        "movie_name": "155. Monty Python and the Holy Grail",
+        "movie_rate": "8.2",
+        "movie_year": "1975",
+        "movie_duration": "1h 31m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(576K)"
+    },
+    {
+        "movie_name": "156. Finding Nemo",
+        "movie_rate": "8.2",
+        "movie_year": "2003",
+        "movie_duration": "1h 40m",
+        "movie_age": "G",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "157. Prisoners",
+        "movie_rate": "8.2",
+        "movie_year": "2013",
+        "movie_duration": "2h 33m",
+        "movie_age": "R",
+        "total_review": "\u00a0(828K)"
+    },
+    {
+        "movie_name": "158. Howl's Moving Castle",
+        "movie_rate": "8.2",
+        "movie_year": "2004",
+        "movie_duration": "1h 59m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(460K)"
+    },
+    {
+        "movie_name": "159. Rashomon",
+        "movie_rate": "8.2",
+        "movie_year": "1950",
+        "movie_duration": "1h 28m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(183K)"
+    },
+    {
+        "movie_name": "160. The Elephant Man",
+        "movie_rate": "8.2",
+        "movie_year": "1980",
+        "movie_duration": "2h 4m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(262K)"
+    },
+    {
+        "movie_name": "161. Dial M for Murder",
+        "movie_rate": "8.2",
+        "movie_year": "1954",
+        "movie_duration": "1h 45m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(192K)"
+    },
+    {
+        "movie_name": "162. Chinatown",
+        "movie_rate": "8.1",
+        "movie_year": "1974",
+        "movie_duration": "2h 10m",
+        "movie_age": "R",
+        "total_review": "\u00a0(355K)"
+    },
+    {
+        "movie_name": "163. Gone with the Wind",
+        "movie_rate": "8.2",
+        "movie_year": "1939",
+        "movie_duration": "3h 58m",
+        "movie_age": "G",
+        "total_review": "\u00a0(338K)"
+    },
+    {
+        "movie_name": "164. Lock, Stock and Two Smoking Barrels",
+        "movie_rate": "8.1",
+        "movie_year": "1998",
+        "movie_duration": "1h 47m",
+        "movie_age": "R",
+        "total_review": "\u00a0(622K)"
+    },
+    {
+        "movie_name": "165. The Secret in Their Eyes",
+        "movie_rate": "8.2",
+        "movie_year": "2009",
+        "movie_duration": "2h 9m",
+        "movie_age": "R",
+        "total_review": "\u00a0(225K)"
+    },
+    {
+        "movie_name": "166. V for Vendetta",
+        "movie_rate": "8.1",
+        "movie_year": "2005",
+        "movie_duration": "2h 12m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "167. Inside Out",
+        "movie_rate": "8.1",
+        "movie_year": "2015",
+        "movie_duration": "1h 35m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(825K)"
+    },
+    {
+        "movie_name": "168. Raging Bull",
+        "movie_rate": "8.1",
+        "movie_year": "1980",
+        "movie_duration": "2h 9m",
+        "movie_age": "R",
+        "total_review": "\u00a0(385K)"
+    },
+    {
+        "movie_name": "169. Three Billboards Outside Ebbing, Missouri",
+        "movie_rate": "8.1",
+        "movie_year": "2017",
+        "movie_duration": "1h 55m",
+        "movie_age": "R",
+        "total_review": "\u00a0(563K)"
+    },
+    {
+        "movie_name": "170. Trainspotting",
+        "movie_rate": "8.1",
+        "movie_year": "1996",
+        "movie_duration": "1h 33m",
+        "movie_age": "R",
+        "total_review": "\u00a0(733K)"
+    },
+    {
+        "movie_name": "171. The Bridge on the River Kwai",
+        "movie_rate": "8.1",
+        "movie_year": "1957",
+        "movie_duration": "2h 41m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(236K)"
+    },
+    {
+        "movie_name": "172. Klaus",
+        "movie_rate": "8.2",
+        "movie_year": "2019",
+        "movie_duration": "1h 36m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(194K)"
+    },
+    {
+        "movie_name": "173. Catch Me If You Can",
+        "movie_rate": "8.1",
+        "movie_year": "2002",
+        "movie_duration": "2h 21m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "174. Fargo",
+        "movie_rate": "8.1",
+        "movie_year": "1996",
+        "movie_duration": "1h 38m",
+        "movie_age": "R",
+        "total_review": "\u00a0(735K)"
+    },
+    {
+        "movie_name": "175. Warrior",
+        "movie_rate": "8.1",
+        "movie_year": "2011",
+        "movie_duration": "2h 20m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(503K)"
+    },
+    {
+        "movie_name": "176. Spider-Man: No Way Home",
+        "movie_rate": "8.2",
+        "movie_year": "2021",
+        "movie_duration": "2h 28m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(903K)"
+    },
+    {
+        "movie_name": "177. Gran Torino",
+        "movie_rate": "8.1",
+        "movie_year": "2008",
+        "movie_duration": "1h 56m",
+        "movie_age": "R",
+        "total_review": "\u00a0(822K)"
+    },
+    {
+        "movie_name": "178. Harry Potter and the Deathly Hallows: Part 2",
+        "movie_rate": "8.1",
+        "movie_year": "2011",
+        "movie_duration": "2h 10m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(962K)"
+    },
+    {
+        "movie_name": "179. Million Dollar Baby",
+        "movie_rate": "8.1",
+        "movie_year": "2004",
+        "movie_duration": "2h 12m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(729K)"
+    },
+    {
+        "movie_name": "180. My Neighbor Totoro",
+        "movie_rate": "8.1",
+        "movie_year": "1988",
+        "movie_duration": "1h 26m",
+        "movie_age": "G",
+        "total_review": "\u00a0(389K)"
+    },
+    {
+        "movie_name": "181. Mad Max: Fury Road",
+        "movie_rate": "8.1",
+        "movie_year": "2015",
+        "movie_duration": "2h",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "182. Children of Heaven",
+        "movie_rate": "8.2",
+        "movie_year": "1997",
+        "movie_duration": "1h 29m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(82K)"
+    },
+    {
+        "movie_name": "183. Ben-Hur",
+        "movie_rate": "8.1",
+        "movie_year": "1959",
+        "movie_duration": "3h 32m",
+        "movie_age": "G",
+        "total_review": "\u00a0(256K)"
+    },
+    {
+        "movie_name": "184. 12 Years a Slave",
+        "movie_rate": "8.1",
+        "movie_year": "2013",
+        "movie_duration": "2h 14m",
+        "movie_age": "R",
+        "total_review": "\u00a0(748K)"
+    },
+    {
+        "movie_name": "185. Blade Runner",
+        "movie_rate": "8.1",
+        "movie_year": "1982",
+        "movie_duration": "1h 57m",
+        "movie_age": "R",
+        "total_review": "\u00a0(833K)"
+    },
+    {
+        "movie_name": "186. Barry Lyndon",
+        "movie_rate": "8.1",
+        "movie_year": "1975",
+        "movie_duration": "3h 5m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(186K)"
+    },
+    {
+        "movie_name": "187. Before Sunrise",
+        "movie_rate": "8.1",
+        "movie_year": "1995",
+        "movie_duration": "1h 41m",
+        "movie_age": "R",
+        "total_review": "\u00a0(346K)"
+    },
+    {
+        "movie_name": "188. The Grand Budapest Hotel",
+        "movie_rate": "8.1",
+        "movie_year": "2014",
+        "movie_duration": "1h 39m",
+        "movie_age": "R",
+        "total_review": "\u00a0(899K)"
+    },
+    {
+        "movie_name": "189. Hacksaw Ridge",
+        "movie_rate": "8.1",
+        "movie_year": "2016",
+        "movie_duration": "2h 19m",
+        "movie_age": "R",
+        "total_review": "\u00a0(608K)"
+    },
+    {
+        "movie_name": "190. Gone Girl",
+        "movie_rate": "8.1",
+        "movie_year": "2014",
+        "movie_duration": "2h 29m",
+        "movie_age": "R",
+        "total_review": "\u00a0(1.1M)"
+    },
+    {
+        "movie_name": "191. Dead Poets Society",
+        "movie_rate": "8.1",
+        "movie_year": "1989",
+        "movie_duration": "2h 8m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(558K)"
+    },
+    {
+        "movie_name": "192. Memories of Murder",
+        "movie_rate": "8.1",
+        "movie_year": "2003",
+        "movie_duration": "2h 12m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(223K)"
+    },
+    {
+        "movie_name": "193. In the Name of the Father",
+        "movie_rate": "8.1",
+        "movie_year": "1993",
+        "movie_duration": "2h 13m",
+        "movie_age": "R",
+        "total_review": "\u00a0(189K)"
+    },
+    {
+        "movie_name": "194. Maharaja",
+        "movie_rate": "8.6",
+        "movie_year": "2024",
+        "movie_duration": "2h 21m",
+        "movie_age": "Unknown",
+        "total_review": "\u00a0(43K)"
+    },
+    {
+        "movie_name": "195. The Gold Rush",
+        "movie_rate": "8.1",
+        "movie_year": "1925",
+        "movie_duration": "1h 35m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(120K)"
+    },
+    {
+        "movie_name": "196. Monsters, Inc.",
+        "movie_rate": "8.1",
+        "movie_year": "2001",
+        "movie_duration": "1h 32m",
+        "movie_age": "G",
+        "total_review": "\u00a0(994K)"
+    },
+    {
+        "movie_name": "197. Wild Tales",
+        "movie_rate": "8.1",
+        "movie_year": "2014",
+        "movie_duration": "2h 2m",
+        "movie_age": "R",
+        "total_review": "\u00a0(220K)"
+    },
+    {
+        "movie_name": "198. The Deer Hunter",
+        "movie_rate": "8.1",
+        "movie_year": "1978",
+        "movie_duration": "3h 3m",
+        "movie_age": "R",
+        "total_review": "\u00a0(366K)"
+    },
+    {
+        "movie_name": "199. The General",
+        "movie_rate": "8.1",
+        "movie_year": "1926",
+        "movie_duration": "1h 18m",
+        "movie_age": "Passed",
+        "total_review": "\u00a0(99K)"
+    },
+    {
+        "movie_name": "200. Jaws",
+        "movie_rate": "8.1",
+        "movie_year": "1975",
+        "movie_duration": "2h 4m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(672K)"
+    },
+    {
+        "movie_name": "201. Sherlock Jr.",
+        "movie_rate": "8.2",
+        "movie_year": "1924",
+        "movie_duration": "45m",
+        "movie_age": "Passed",
+        "total_review": "\u00a0(58K)"
+    },
+    {
+        "movie_name": "202. How to Train Your Dragon",
+        "movie_rate": "8.1",
+        "movie_year": "2010",
+        "movie_duration": "1h 38m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(813K)"
+    },
+    {
+        "movie_name": "203. On the Waterfront",
+        "movie_rate": "8.1",
+        "movie_year": "1954",
+        "movie_duration": "1h 48m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(167K)"
+    },
+    {
+        "movie_name": "204. Ratatouille",
+        "movie_rate": "8.1",
+        "movie_year": "2007",
+        "movie_duration": "1h 51m",
+        "movie_age": "G",
+        "total_review": "\u00a0(845K)"
+    },
+    {
+        "movie_name": "205. Mary and Max",
+        "movie_rate": "8.1",
+        "movie_year": "2009",
+        "movie_duration": "1h 32m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(189K)"
+    },
+    {
+        "movie_name": "206. The Wages of Fear",
+        "movie_rate": "8.1",
+        "movie_year": "1953",
+        "movie_duration": "2h 11m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(68K)"
+    },
+    {
+        "movie_name": "207. The Third Man",
+        "movie_rate": "8.1",
+        "movie_year": "1949",
+        "movie_duration": "1h 33m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(184K)"
+    },
+    {
+        "movie_name": "208. Wild Strawberries",
+        "movie_rate": "8.1",
+        "movie_year": "1957",
+        "movie_duration": "1h 32m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(117K)"
+    },
+    {
+        "movie_name": "209. Ford v Ferrari",
+        "movie_rate": "8.1",
+        "movie_year": "2019",
+        "movie_duration": "2h 32m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(493K)"
+    },
+    {
+        "movie_name": "210. Mr. Smith Goes to Washington",
+        "movie_rate": "8.1",
+        "movie_year": "1939",
+        "movie_duration": "2h 9m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(123K)"
+    },
+    {
+        "movie_name": "211. Tokyo Story",
+        "movie_rate": "8.1",
+        "movie_year": "1953",
+        "movie_duration": "2h 16m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(70K)"
+    },
+    {
+        "movie_name": "212. Logan",
+        "movie_rate": "8.1",
+        "movie_year": "2017",
+        "movie_duration": "2h 17m",
+        "movie_age": "R",
+        "total_review": "\u00a0(857K)"
+    },
+    {
+        "movie_name": "213. Rocky",
+        "movie_rate": "8.1",
+        "movie_year": "1976",
+        "movie_duration": "2h",
+        "movie_age": "PG",
+        "total_review": "\u00a0(638K)"
+    },
+    {
+        "movie_name": "214. The Big Lebowski",
+        "movie_rate": "8.1",
+        "movie_year": "1998",
+        "movie_duration": "1h 57m",
+        "movie_age": "R",
+        "total_review": "\u00a0(870K)"
+    },
+    {
+        "movie_name": "215. The Seventh Seal",
+        "movie_rate": "8.1",
+        "movie_year": "1957",
+        "movie_duration": "1h 36m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(201K)"
+    },
+    {
+        "movie_name": "216. Room",
+        "movie_rate": "8.1",
+        "movie_year": "2015",
+        "movie_duration": "1h 58m",
+        "movie_age": "R",
+        "total_review": "\u00a0(456K)"
+    },
+    {
+        "movie_name": "217. Spotlight",
+        "movie_rate": "8.1",
+        "movie_year": "2015",
+        "movie_duration": "2h 9m",
+        "movie_age": "R",
+        "total_review": "\u00a0(507K)"
+    },
+    {
+        "movie_name": "218. The Terminator",
+        "movie_rate": "8.1",
+        "movie_year": "1984",
+        "movie_duration": "1h 47m",
+        "movie_age": "R",
+        "total_review": "\u00a0(938K)"
+    },
+    {
+        "movie_name": "219. Hotel Rwanda",
+        "movie_rate": "8.1",
+        "movie_year": "2004",
+        "movie_duration": "2h 1m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(375K)"
+    },
+    {
+        "movie_name": "220. Platoon",
+        "movie_rate": "8.1",
+        "movie_year": "1986",
+        "movie_duration": "2h",
+        "movie_age": "R",
+        "total_review": "\u00a0(445K)"
+    },
+    {
+        "movie_name": "221. La haine",
+        "movie_rate": "8.1",
+        "movie_year": "1995",
+        "movie_duration": "1h 38m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(201K)"
+    },
+    {
+        "movie_name": "222. Pirates of the Caribbean: The Curse of the Black Pearl",
+        "movie_rate": "8.1",
+        "movie_year": "2003",
+        "movie_duration": "2h 23m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(1.2M)"
+    },
+    {
+        "movie_name": "223. Before Sunset",
+        "movie_rate": "8.1",
+        "movie_year": "2004",
+        "movie_duration": "1h 20m",
+        "movie_age": "R",
+        "total_review": "\u00a0(292K)"
+    },
+    {
+        "movie_name": "224. Jai Bhim",
+        "movie_rate": "8.7",
+        "movie_year": "2021",
+        "movie_duration": "2h 44m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(220K)"
+    },
+    {
+        "movie_name": "225. The Passion of Joan of Arc",
+        "movie_rate": "8.1",
+        "movie_year": "1928",
+        "movie_duration": "1h 54m",
+        "movie_age": "Passed",
+        "total_review": "\u00a0(62K)"
+    },
+    {
+        "movie_name": "226. The Best Years of Our Lives",
+        "movie_rate": "8.1",
+        "movie_year": "1946",
+        "movie_duration": "2h 50m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(72K)"
+    },
+    {
+        "movie_name": "227. The Exorcist",
+        "movie_rate": "8.1",
+        "movie_year": "1973",
+        "movie_duration": "2h 2m",
+        "movie_age": "R",
+        "total_review": "\u00a0(462K)"
+    },
+    {
+        "movie_name": "228. Rush",
+        "movie_rate": "8.1",
+        "movie_year": "2013",
+        "movie_duration": "2h 3m",
+        "movie_age": "R",
+        "total_review": "\u00a0(520K)"
+    },
+    {
+        "movie_name": "229. The Wizard of Oz",
+        "movie_rate": "8.1",
+        "movie_year": "1939",
+        "movie_duration": "1h 42m",
+        "movie_age": "G",
+        "total_review": "\u00a0(434K)"
+    },
+    {
+        "movie_name": "230. The Incredibles",
+        "movie_rate": "8.0",
+        "movie_year": "2004",
+        "movie_duration": "1h 55m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(824K)"
+    },
+    {
+        "movie_name": "231. Network",
+        "movie_rate": "8.1",
+        "movie_year": "1976",
+        "movie_duration": "2h 1m",
+        "movie_age": "R",
+        "total_review": "\u00a0(173K)"
+    },
+    {
+        "movie_name": "232. Stand by Me",
+        "movie_rate": "8.1",
+        "movie_year": "1986",
+        "movie_duration": "1h 29m",
+        "movie_age": "R",
+        "total_review": "\u00a0(449K)"
+    },
+    {
+        "movie_name": "233. Hachi: A Dog's Tale",
+        "movie_rate": "8.1",
+        "movie_year": "2009",
+        "movie_duration": "1h 33m",
+        "movie_age": "G",
+        "total_review": "\u00a0(317K)"
+    },
+    {
+        "movie_name": "234. The Sound of Music",
+        "movie_rate": "8.1",
+        "movie_year": "1965",
+        "movie_duration": "2h 52m",
+        "movie_age": "G",
+        "total_review": "\u00a0(265K)"
+    },
+    {
+        "movie_name": "235. My Father and My Son",
+        "movie_rate": "8.2",
+        "movie_year": "2005",
+        "movie_duration": "1h 52m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(94K)"
+    },
+    {
+        "movie_name": "236. The Handmaiden",
+        "movie_rate": "8.1",
+        "movie_year": "2016",
+        "movie_duration": "2h 25m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(178K)"
+    },
+    {
+        "movie_name": "237. To Be or Not to Be",
+        "movie_rate": "8.1",
+        "movie_year": "1942",
+        "movie_duration": "1h 39m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(44K)"
+    },
+    {
+        "movie_name": "238. Into the Wild",
+        "movie_rate": "8.1",
+        "movie_year": "2007",
+        "movie_duration": "2h 28m",
+        "movie_age": "R",
+        "total_review": "\u00a0(664K)"
+    },
+    {
+        "movie_name": "239. The Battle of Algiers",
+        "movie_rate": "8.1",
+        "movie_year": "1966",
+        "movie_duration": "2h 1m",
+        "movie_age": "Not Rated",
+        "total_review": "\u00a0(67K)"
+    },
+    {
+        "movie_name": "240. Groundhog Day",
+        "movie_rate": "8.0",
+        "movie_year": "1993",
+        "movie_duration": "1h 41m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(694K)"
+    },
+    {
+        "movie_name": "241. The Grapes of Wrath",
+        "movie_rate": "8.1",
+        "movie_year": "1940",
+        "movie_duration": "2h 9m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(101K)"
+    },
+    {
+        "movie_name": "242. The Iron Giant",
+        "movie_rate": "8.1",
+        "movie_year": "1999",
+        "movie_duration": "1h 26m",
+        "movie_age": "PG",
+        "total_review": "\u00a0(233K)"
+    },
+    {
+        "movie_name": "243. Amores Perros",
+        "movie_rate": "8.0",
+        "movie_year": "2000",
+        "movie_duration": "2h 34m",
+        "movie_age": "R",
+        "total_review": "\u00a0(255K)"
+    },
+    {
+        "movie_name": "244. Rebecca",
+        "movie_rate": "8.1",
+        "movie_year": "1940",
+        "movie_duration": "2h 10m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(149K)"
+    },
+    {
+        "movie_name": "245. Cool Hand Luke",
+        "movie_rate": "8.1",
+        "movie_year": "1967",
+        "movie_duration": "2h 7m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(191K)"
+    },
+    {
+        "movie_name": "246. The Help",
+        "movie_rate": "8.1",
+        "movie_year": "2011",
+        "movie_duration": "2h 26m",
+        "movie_age": "PG-13",
+        "total_review": "\u00a0(499K)"
+    },
+    {
+        "movie_name": "247. It Happened One Night",
+        "movie_rate": "8.1",
+        "movie_year": "1934",
+        "movie_duration": "1h 45m",
+        "movie_age": "Approved",
+        "total_review": "\u00a0(114K)"
+    },
+    {
+        "movie_name": "248. Paris, Texas",
+        "movie_rate": "8.1",
+        "movie_year": "1984",
+        "movie_duration": "2h 25m",
+        "movie_age": "R",
+        "total_review": "\u00a0(123K)"
+    },
+    {
+        "movie_name": "249. Aladdin",
+        "movie_rate": "8.0",
+        "movie_year": "1992",
+        "movie_duration": "1h 30m",
+        "movie_age": "G",
+        "total_review": "\u00a0(476K)"
+    },
+    {
+        "movie_name": "250. Scent of a Woman",
+        "movie_rate": "8.0",
+        "movie_year": "1992",
+        "movie_duration": "2h 36m",
+        "movie_age": "R",
+        "total_review": "\u00a0(335K)"
+    }
+]
