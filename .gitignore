@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+*.egg-info/
+.ipynb_checkpoints/
+
+# Data lokal & upload pengguna
+*.db
+*.sqlite3
+static/uploads/*
+!static/uploads/README.md
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
